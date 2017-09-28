@@ -57,6 +57,7 @@ Build requirements:
 
 	sudo apt-get install build-essential
 	sudo apt-get install libssl-dev
+	sudo apt-get install libdb++-dev
 
 for Ubuntu 12.04:
 
