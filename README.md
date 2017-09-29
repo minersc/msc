@@ -2,9 +2,13 @@ MSCoin integration/staging tree
 ================================
 
 http://www.minersc.com
+
 Copyright (c) 2009-2013 Bitcoin Developers
+
 Copyright (c) 2011-2014 Litecoin Developers
+
 Copyright (c) 2015-2018 MSC Developers
+
 
 
 What is MSCoin?
