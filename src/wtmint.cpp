@@ -1,4 +1,4 @@
-// Copyright (c) 2014-2015 The CADIsoCash developers
+// Copyright (c) 2014-2015 The MinerSCoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -23,10 +23,19 @@ namespace WTMint
 					return 0;
 				
 				if (nHeight==1)
-					return  20150928* COIN; 
+					return  81480000* COIN; 
 
+    int64_t nSubsidy = 50 * COIN;
+    int halvings = nHeight / 26000;
 
-				 return  nFees;			
+    // Force block reward to zero when right shift is undefined.
+    if (halvings >= 64)
+        return nFees;
+
+    // Subsidy is cut in half every 26000 blocks which will occur approximately 6 months.
+    nSubsidy >>= halvings;
+
+    return nSubsidy + nFees;	
 				
 	}
 }		 

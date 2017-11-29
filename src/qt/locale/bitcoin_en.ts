@@ -6,13 +6,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About CADIsoCash</source>
-        <translation>About CADIsoCash</translation>
+        <source>About MinerSCoin</source>
+        <translation>About MinerSCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;CADIsoCash&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;CADIsoCash&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;MinerSCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;MinerSCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -36,8 +36,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The CADIsoCash developers</source>
-        <translation>The CADIsoCash developers</translation>
+        <source>The MinerSCoin developers</source>
+        <translation>The MinerSCoin developers</translation>
     </message>
 </context>
 <context>
@@ -69,8 +69,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your CADIsoCash addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your CADIsoCash addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your MinerSCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your MinerSCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -84,8 +84,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a CADIsoCash address</source>
-        <translation>Sign a message to prove you own a CADIsoCash address</translation>
+        <source>Sign a message to prove you own a MinerSCoin address</source>
+        <translation>Sign a message to prove you own a MinerSCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -109,8 +109,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified CADIsoCash address</source>
-        <translation>Verify a message to ensure it was signed with a specified CADIsoCash address</translation>
+        <source>Verify a message to ensure it was signed with a specified MinerSCoin address</source>
+        <translation>Verify a message to ensure it was signed with a specified MinerSCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -124,8 +124,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your CADIsoCash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your CADIsoCash addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <source>These are your MinerSCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your MinerSCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -277,8 +277,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>CADIsoCash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cadisocashs from being stolen by malware infecting your computer.</source>
-        <translation>CADIsoCash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cadisocashs from being stolen by malware infecting your computer.</translation>
+        <source>MinerSCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your minerscoins from being stolen by malware infecting your computer.</source>
+        <translation>MinerSCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your minerscoins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -376,8 +376,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about CADIsoCash</source>
-        <translation>Show information about CADIsoCash</translation>
+        <source>Show information about MinerSCoin</source>
+        <translation>Show information about MinerSCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -421,13 +421,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a CADIsoCash address</source>
-        <translation>Send coins to a CADIsoCash address</translation>
+        <source>Send coins to a MinerSCoin address</source>
+        <translation>Send coins to a MinerSCoin address</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for CADIsoCash</source>
-        <translation>Modify configuration options for CADIsoCash</translation>
+        <source>Modify configuration options for MinerSCoin</source>
+        <translation>Modify configuration options for MinerSCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -457,8 +457,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>CADIsoCash</source>
-        <translation>CADIsoCash</translation>
+        <source>MinerSCoin</source>
+        <translation>MinerSCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About CADIsoCash</source>
-        <translation>&amp;About CADIsoCash</translation>
+        <source>&amp;About MinerSCoin</source>
+        <translation>&amp;About MinerSCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -502,13 +502,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your CADIsoCash addresses to prove you own them</source>
-        <translation>Sign messages with your CADIsoCash addresses to prove you own them</translation>
+        <source>Sign messages with your MinerSCoin addresses to prove you own them</source>
+        <translation>Sign messages with your MinerSCoin addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified CADIsoCash addresses</source>
-        <translation>Verify messages to ensure they were signed with specified CADIsoCash addresses</translation>
+        <source>Verify messages to ensure they were signed with specified MinerSCoin addresses</source>
+        <translation>Verify messages to ensure they were signed with specified MinerSCoin addresses</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -538,15 +538,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>CADIsoCash client</source>
-        <translation>CADIsoCash client</translation>
+        <source>MinerSCoin client</source>
+        <translation>MinerSCoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to CADIsoCash network</source>
+        <source>%n active connection(s) to MinerSCoin network</source>
         <translation>
-            <numerusform>%n active connection to CADIsoCash network</numerusform>
-            <numerusform>%n active connections to CADIsoCash network</numerusform>
+            <numerusform>%n active connection to MinerSCoin network</numerusform>
+            <numerusform>%n active connections to MinerSCoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -670,8 +670,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid CADIsoCash address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid CADIsoCash address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid MinerSCoin address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid MinerSCoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -685,8 +685,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. CADIsoCash can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. CADIsoCash can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. MinerSCoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. MinerSCoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -751,8 +751,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid CADIsoCash address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid CADIsoCash address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid MinerSCoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid MinerSCoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -770,8 +770,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>CADIsoCash-Qt</source>
-        <translation>CADIsoCash-Qt</translation>
+        <source>MinerSCoin-Qt</source>
+        <translation>MinerSCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -833,13 +833,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start CADIsoCash after logging in to the system.</source>
-        <translation>Automatically start CADIsoCash after logging in to the system.</translation>
+        <source>Automatically start MinerSCoin after logging in to the system.</source>
+        <translation>Automatically start MinerSCoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start CADIsoCash on system login</source>
-        <translation>&amp;Start CADIsoCash on system login</translation>
+        <source>&amp;Start MinerSCoin on system login</source>
+        <translation>&amp;Start MinerSCoin on system login</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -858,8 +858,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the CADIsoCash client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the CADIsoCash client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the MinerSCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the MinerSCoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -868,8 +868,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the CADIsoCash network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the CADIsoCash network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the MinerSCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the MinerSCoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -943,8 +943,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting CADIsoCash.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting CADIsoCash.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting MinerSCoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting MinerSCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -958,8 +958,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show CADIsoCash addresses in the transaction list or not.</source>
-        <translation>Whether to show CADIsoCash addresses in the transaction list or not.</translation>
+        <source>Whether to show MinerSCoin addresses in the transaction list or not.</source>
+        <translation>Whether to show MinerSCoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1010,8 +1010,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting CADIsoCash.</source>
-        <translation>This setting will take effect after restarting CADIsoCash.</translation>
+        <source>This setting will take effect after restarting MinerSCoin.</source>
+        <translation>This setting will take effect after restarting MinerSCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1029,8 +1029,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CADIsoCash network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the CADIsoCash network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the MinerSCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the MinerSCoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1083,8 +1083,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start cadisocash: click-to-pay handler</source>
-        <translation>Cannot start cadisocash: click-to-pay handler</translation>
+        <source>Cannot start minerscoin: click-to-pay handler</source>
+        <translation>Cannot start minerscoin: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1233,8 +1233,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the CADIsoCash-Qt help message to get a list with possible CADIsoCash command-line options.</source>
-        <translation>Show the CADIsoCash-Qt help message to get a list with possible CADIsoCash command-line options.</translation>
+        <source>Show the MinerSCoin-Qt help message to get a list with possible MinerSCoin command-line options.</source>
+        <translation>Show the MinerSCoin-Qt help message to get a list with possible MinerSCoin command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,13 +1253,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>CADIsoCash - Debug window</source>
-        <translation>CADIsoCash - Debug window</translation>
+        <source>MinerSCoin - Debug window</source>
+        <translation>MinerSCoin - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>CADIsoCash Core</source>
-        <translation>CADIsoCash Core</translation>
+        <source>MinerSCoin Core</source>
+        <translation>MinerSCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1268,8 +1268,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the CADIsoCash debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the CADIsoCash debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the MinerSCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the MinerSCoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1278,8 +1278,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the CADIsoCash RPC console.</source>
-        <translation>Welcome to the CADIsoCash RPC console.</translation>
+        <source>Welcome to the MinerSCoin RPC console.</source>
+        <translation>Welcome to the MinerSCoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1462,8 +1462,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a CADIsoCash address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Enter a CADIsoCash address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a MinerSCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Enter a MinerSCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1527,8 +1527,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this CADIsoCash address</source>
-        <translation>Sign the message to prove you own this CADIsoCash address</translation>
+        <source>Sign the message to prove you own this MinerSCoin address</source>
+        <translation>Sign the message to prove you own this MinerSCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,8 +1563,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified CADIsoCash address</source>
-        <translation>Verify the message to ensure it was signed with the specified CADIsoCash address</translation>
+        <source>Verify the message to ensure it was signed with the specified MinerSCoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified MinerSCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1579,8 +1579,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a CADIsoCash address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Enter a CADIsoCash address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a MinerSCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Enter a MinerSCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1589,8 +1589,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter CADIsoCash signature</source>
-        <translation>Enter CADIsoCash signature</translation>
+        <source>Enter MinerSCoin signature</source>
+        <translation>Enter MinerSCoin signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1663,8 +1663,8 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The CADIsoCash developers</source>
-        <translation>The CADIsoCash developers</translation>
+        <source>The MinerSCoin developers</source>
+        <translation>The MinerSCoin developers</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2216,8 +2216,8 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>CADIsoCash version</source>
-        <translation>CADIsoCash version</translation>
+        <source>MinerSCoin version</source>
+        <translation>MinerSCoin version</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2226,8 +2226,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or cadisocashd</source>
-        <translation>Send command to -server or cadisocashd</translation>
+        <source>Send command to -server or minerscoind</source>
+        <translation>Send command to -server or minerscoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2246,13 +2246,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: cadisocash.conf)</source>
-        <translation>Specify configuration file (default: cadisocash.conf)</translation>
+        <source>Specify configuration file (default: minerscoin.conf)</source>
+        <translation>Specify configuration file (default: minerscoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: cadisocashd.pid)</source>
-        <translation>Specify pid file (default: cadisocashd.pid)</translation>
+        <source>Specify pid file (default: minerscoind.pid)</source>
+        <translation>Specify pid file (default: minerscoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2329,24 +2329,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cadisocashrpc
+rpcuser=minerscoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;CADIsoCash Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;MinerSCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cadisocashrpc
+rpcuser=minerscoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;CADIsoCash Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;MinerSCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2361,8 +2361,8 @@ for example: alertnotify=echo %%s | mail -s &quot;CADIsoCash Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. CADIsoCash is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s. CADIsoCash is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. MinerSCoin is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s. MinerSCoin is probably already running.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2406,8 +2406,8 @@ for example: alertnotify=echo %%s | mail -s &quot;CADIsoCash Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CADIsoCash will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CADIsoCash will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong MinerSCoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong MinerSCoin will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2656,8 +2656,8 @@ for example: alertnotify=echo %%s | mail -s &quot;CADIsoCash Alert&quot; admin@f
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the CADIsoCash Wiki for SSL setup instructions)</source>
-        <translation>SSL options: (see the CADIsoCash Wiki for SSL setup instructions)</translation>
+        <source>SSL options: (see the MinerSCoin Wiki for SSL setup instructions)</source>
+        <translation>SSL options: (see the MinerSCoin Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2846,13 +2846,13 @@ for example: alertnotify=echo %%s | mail -s &quot;CADIsoCash Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of CADIsoCash</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of CADIsoCash</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of MinerSCoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of MinerSCoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart CADIsoCash to complete</source>
-        <translation>Wallet needed to be rewritten: restart CADIsoCash to complete</translation>
+        <source>Wallet needed to be rewritten: restart MinerSCoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart MinerSCoin to complete</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2911,8 +2911,8 @@ for example: alertnotify=echo %%s | mail -s &quot;CADIsoCash Alert&quot; admin@f
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. CADIsoCash is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. CADIsoCash is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. MinerSCoin is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. MinerSCoin is probably already running.</translation>
     </message>
     <message>
         <location line="+64"/>

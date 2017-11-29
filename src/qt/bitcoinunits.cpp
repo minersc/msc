@@ -1,7 +1,3 @@
-// Copyright (c) 2011-2013 The Bitcoin developers
-// Distributed under the MIT/X11 software license, see the accompanying
-// file COPYING or http://www.opensource.org/licenses/mit-license.php.
-
 #include "bitcoinunits.h"
 
 #include <QStringList>
@@ -38,9 +34,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("AIB");
-    case mBTC: return QString("mAIB");
-    case uBTC: return QString::fromUtf8("μAIB");
+    case BTC: return QString("MSC");
+    case mBTC: return QString("mMSC");
+    case uBTC: return QString::fromUtf8("μMSC");
     default: return QString("???");
     }
 }
@@ -49,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("CADIsoCashs");
-    case mBTC: return QString("Milli-CADIsoCashs (1 / 1,000)");
-    case uBTC: return QString("Micro-CADIsoCashs (1 / 1,000,000)");
+    case BTC: return QString("MinerSCoins");
+    case mBTC: return QString("Milli-MinerSCoins (1 / 1,000)");
+    case uBTC: return QString("Micro-MinerSCoins (1 / 1,000,000)");
     default: return QString("???");
     }
 }

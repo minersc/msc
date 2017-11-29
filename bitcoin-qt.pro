@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = cadisocash-qt
-macx:TARGET = "cadisocash-Qt"
+TARGET = minerscoin-qt
+macx:TARGET = "minerscoin-Qt"
 VERSION = 0.8.7.4
 INCLUDEPATH += src src/json src/qt
 QT += core gui network
@@ -158,6 +158,7 @@ HEADERS += src/qt/bitcoingui.h \
     src/qt/aboutdialog.h \
     src/qt/editaddressdialog.h \
     src/qt/bitcoinaddressvalidator.h \
+	src/wtmint.h \    
     src/auxpow.h \    
     src/alert.h \
     src/addrman.h \
@@ -246,6 +247,7 @@ SOURCES += src/qt/bitcoin.cpp \
     src/qt/aboutdialog.cpp \
     src/qt/editaddressdialog.cpp \
     src/qt/bitcoinaddressvalidator.cpp \
+	src/wtmint.cpp \
     src/auxpow.cpp \
     src/alert.cpp \
     src/version.cpp \
@@ -332,7 +334,7 @@ SOURCES += src/qt/test/test_main.cpp \
 HEADERS += src/qt/test/uritests.h
 DEPENDPATH += src/qt/test
 QT += testlib
-TARGET = cadisocash-qt_test
+TARGET = minerscoin-qt_test
 DEFINES += BITCOIN_QT_TEST
   macx: CONFIG -= app_bundle
 }
@@ -432,7 +434,7 @@ macx:HEADERS += src/qt/macdockiconhandler.h src/qt/macnotificationhandler.h
 macx:OBJECTIVE_SOURCES += src/qt/macdockiconhandler.mm src/qt/macnotificationhandler.mm
 macx:LIBS += -framework Foundation -framework ApplicationServices -framework AppKit -framework CoreServices
 macx:DEFINES += MAC_OSX MSG_NOSIGNAL=0
-macx:ICON = src/qt/res/icons/cadisocash.icns
+macx:ICON = src/qt/res/icons/minerscoin.icns
 macx:QMAKE_CFLAGS_THREAD += -pthread
 macx:QMAKE_LFLAGS_THREAD += -pthread
 macx:QMAKE_CXXFLAGS_THREAD += -pthread

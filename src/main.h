@@ -1182,7 +1182,7 @@ public:
     bool AcceptToMemoryPool(bool fCheckInputs=true, bool fLimitFree=true);
 };
 
-/**CADIsoCash Merge mining*/
+/**MinerSCoin Merge mining*/
 template <typename Stream>
 int ReadWriteAuxPow(Stream& s, const boost::shared_ptr<CAuxPow>& auxpow, int nType, int nVersion, CSerActionSerialize ser_action);
   
