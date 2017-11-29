@@ -1,16 +1,16 @@
-AIBond integration/staging tree
+MSC  integration/staging tree
 ================================
 
-http://www.cadisocash.org
+http://www.minersc.com
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2013-2014 AIBond Developers
 
 
-What is AIBond?
+What is MSC?
 ----------------
 
-AIBond is a version of Bitcoin&Litecoin using scrypt as a proof-of-work algorithm.
+MSC is a version of Bitcoin&Litecoin using scrypt as a proof-of-work algorithm.
  - 1 minute block targets
  - subsidy  1 coin 1 block per minute
  - transation fee is the factor to increase the block reward
@@ -21,7 +21,7 @@ The rest is the same as Bitcoin & Litecoin
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the AIBond client sofware, see http://www.cadisocash.com.
+the AIBond client sofware, see http://www.minersc.com
 
 License
 -------
